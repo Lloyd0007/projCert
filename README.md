@@ -1,1 +1,1 @@
-The purpose on this project is to deploy a PHP application to an Apache app
+The purpose of this project is to deploy a PHP application to an Apache app
